@@ -1,0 +1,6 @@
+[
+  {"name": "tester_01", "job": "QA Engineer", "expect_status": 201},
+  {"name": "张伟-测试", "job": "测试工程师", "expect_status": 201},
+  {"name": "a", "job": "b", "expect_status": 201},
+  {"name": "user_with_a_very_long_name_for_boundary_check_0123456789", "job": "QA", "expect_status": 201}
+]

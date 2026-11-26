@@ -1,3 +1,5 @@
+[![API Tests](https://github.com/helloyajunbo-alt/reqres-api-test/actions/workflows/api-test.yml/badge.svg)](https://github.com/helloyajunbo-alt/reqres-api-test/actions/workflows/api-test.yml)
+
 # ReqRes 接口自动化测试（pytest + requests）
 
 ReqRes 用户管理模块的接口自动化实现。与作品集中 Postman 手工验证的 26 条用例（RQ-01 ~ RQ-26）为**同一批用例的两套实现**：Postman 用于设计验证与手工回归，本仓库用于持续集成。两套实现共用同一套用例编号，便于对照。
